@@ -1,0 +1,23 @@
+# Python backend specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+.local
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

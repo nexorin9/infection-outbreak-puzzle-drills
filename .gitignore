@@ -1,0 +1,42 @@
+# Environment
+.env
+.venv
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+logs/
+tmp/
+temp/
+.cache/
+data/
+*.log
+*.tmp
+*.temp
+*.bak
+score.json
+
+# Node (if any frontend)
+node_modules/
+frontend/node_modules/

@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "院感暴发桌面线索链推演系统",
+    "subtitle": "感染控制培训与演练平台"
+  },
+  "nav": {
+    "home": "首页",
+    "puzzle": "推演",
+    "report": "报告",
+    "history": "历史",
+    "help": "帮助",
+    "settings": "设置"
+  },
+  "home": {
+    "welcome": "欢迎使用",
+    "description": "通过谜题式演练学习感染暴发调查与控制",
+    "quickStart": "开始新推演",
+    "continueLast": "继续上次推演",
+    "recentDrills": "最近推演",
+    "noRecentDrills": "暂无推演记录",
+    "rulesReference": "暴发判断规则速查",
+    "statistics": {
+      "totalDrills": "累计推演次数",
+      "avgScore": "平均评分",
+      "totalRules": "规则数量"
+    }
+  },
+  "puzzle": {
+    "startTitle": "开始推演",
+    "clue": "线索",
+    "clueList": "线索列表",
+    "clueDetail": "线索详情",
+    "dataCheckpoint": "数据检查点",
+    "submit": "提交答案",
+    "nextClue": "下一线索",
+    "hint": "提示",
+    "verifyAnswer": "验证答案",
+    "correct": "回答正确",
+    "incorrect": "回答错误，请重试",
+    "completed": "推演完成",
+    "timeElapsed": "已用时间",
+    "timeRemaining": "剩余时间",
+    "progress": "进度"
+  },
+  "report": {
+    "title": "推演报告",
+    "totalScore": "总分",
+    "grade": "等级",
+    "duration": "用时",
+    "cluesVerified": "已验证线索",
+    "accuracyScore": "准确度得分",
+    "speedScore": "速度得分",
+    "hintsScore": "提示得分",
+    "timeline": "时间线",
+    "recommendations": "改进建议",
+    "export": "导出报告",
+    "restart": "重新开始",
+    "exportJson": "导出 JSON",
+    "exportPdf": "导出 PDF",
+    "exportCsv": "导出 CSV"
+  },
+  "boarding": {
+    "title": "院感暴发桌面线索链推演系统",
+    "subtitle": "感控专员培训演练平台",
+    "startButton": "开始推演",
+    "scanQrCode": "扫码开始推演",
+    "fullscreen": "全屏",
+    "autoRotate": "自动轮播"
+  },
+  "timer": {
+    "warning": "时间不足5分钟",
+    "pause": "暂停",
+    "resume": "继续"
+  },
+  "grade": {
+    "excellent": "优秀",
+    "good": "良好",
+    "pass": "及格",
+    "fail": "不及格"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "search": "搜索",
+    "filter": "筛选",
+    "reset": "重置"
+  },
+  "help": {
+    "title": "帮助文档",
+    "introduction": "项目介绍",
+    "rules": "规则说明",
+    "operations": "操作指南",
+    "faq": "常见问题",
+    "contact": "联系我们"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "theme": "主题",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式"
+  },
+  "dataImporter": {
+    "title": "数据导入",
+    "dragDrop": "拖拽上传 CSV/Excel 文件",
+    "selectFile": "选择文件",
+    "fieldMapping": "字段映射",
+    "preview": "数据预览",
+    "validate": "验证",
+    "import": "导入",
+    "progress": "导入进度"
+  },
+  "history": {
+    "title": "推演历史",
+    "noHistory": "暂无推演历史",
+    "viewDetails": "查看详情",
+    "delete": "删除",
+    "search": "搜索历史"
+  }
+}

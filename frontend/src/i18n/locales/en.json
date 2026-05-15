@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "Infection Outbreak Desktop Puzzle Drill System",
+    "subtitle": "Infection Control Training & Exercise Platform"
+  },
+  "nav": {
+    "home": "Home",
+    "puzzle": "Drill",
+    "report": "Report",
+    "history": "History",
+    "help": "Help",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "description": "Learn infection outbreak investigation and control through puzzle-based exercises",
+    "quickStart": "Start New Drill",
+    "continueLast": "Continue Last Drill",
+    "recentDrills": "Recent Drills",
+    "noRecentDrills": "No recent drills",
+    "rulesReference": "Outbreak Detection Rules Quick Reference",
+    "statistics": {
+      "totalDrills": "Total Drills",
+      "avgScore": "Average Score",
+      "totalRules": "Total Rules"
+    }
+  },
+  "puzzle": {
+    "startTitle": "Start Drill",
+    "clue": "Clue",
+    "clueList": "Clue List",
+    "clueDetail": "Clue Detail",
+    "dataCheckpoint": "Data Checkpoint",
+    "submit": "Submit Answer",
+    "nextClue": "Next Clue",
+    "hint": "Hint",
+    "verifyAnswer": "Verify Answer",
+    "correct": "Correct",
+    "incorrect": "Incorrect, please try again",
+    "completed": "Drill Completed",
+    "timeElapsed": "Time Elapsed",
+    "timeRemaining": "Time Remaining",
+    "progress": "Progress"
+  },
+  "report": {
+    "title": "Drill Report",
+    "totalScore": "Total Score",
+    "grade": "Grade",
+    "duration": "Duration",
+    "cluesVerified": "Clues Verified",
+    "accuracyScore": "Accuracy Score",
+    "speedScore": "Speed Score",
+    "hintsScore": "Hints Score",
+    "timeline": "Timeline",
+    "recommendations": "Recommendations",
+    "export": "Export Report",
+    "restart": "Restart",
+    "exportJson": "Export JSON",
+    "exportPdf": "Export PDF",
+    "exportCsv": "Export CSV"
+  },
+  "boarding": {
+    "title": "Infection Outbreak Desktop Puzzle Drill System",
+    "subtitle": "Infection Control Specialist Training Platform",
+    "startButton": "Start Drill",
+    "scanQrCode": "Scan QR Code to Start",
+    "fullscreen": "Fullscreen",
+    "autoRotate": "Auto Rotate"
+  },
+  "timer": {
+    "warning": "Less than 5 minutes remaining",
+    "pause": "Pause",
+    "resume": "Resume"
+  },
+  "grade": {
+    "excellent": "Excellent",
+    "good": "Good",
+    "pass": "Pass",
+    "fail": "Fail"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset"
+  },
+  "help": {
+    "title": "Help Documentation",
+    "introduction": "Introduction",
+    "rules": "Rules",
+    "operations": "Operations Guide",
+    "faq": "FAQ",
+    "contact": "Contact Us"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "dataImporter": {
+    "title": "Data Import",
+    "dragDrop": "Drag and drop CSV/Excel file",
+    "selectFile": "Select File",
+    "fieldMapping": "Field Mapping",
+    "preview": "Data Preview",
+    "validate": "Validate",
+    "import": "Import",
+    "progress": "Import Progress"
+  },
+  "history": {
+    "title": "Drill History",
+    "noHistory": "No drill history",
+    "viewDetails": "View Details",
+    "delete": "Delete",
+    "search": "Search History"
+  }
+}
